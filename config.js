@@ -1,4 +1,4 @@
-const token = "MTE5MDI3MjcyMzIxODM0NTk4Nw.GVm38Z.mek32o_A7sUY9e1r-vPN9brDyj39EG26zJBmn4"; // Here, leave your token
+const token = ""; // Here, leave your token
 const appID = ""; // Here, leave your appID empty = default
 const type = ""; // Here, leave your type [PLAYING, LISTENING, WATCHING, STREAMING] empty = default
 const name = ""; // Here, leave your name empty = default
@@ -40,4 +40,5 @@ module.exports = { // Do not touch
     url1, // Do not touch
     url2, // Do not touch
     startTime, // Do not touch
+
 }
